@@ -1,3 +1,3 @@
-# react-sz2j75
+# react-calculator
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-sz2j75)
+[Edit on StackBlitz ⚡️](https://react-sz2j75.stackblitz.io)
